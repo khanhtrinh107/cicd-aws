@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> Khanh test cicd pipeline
         </p>
         <p>Khanh tao PR</p>
+        <p>Khanh fix bug</p>
         <a
           className="App-link"
           href="https://reactjs.org"
