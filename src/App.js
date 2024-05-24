@@ -11,7 +11,7 @@ function App() {
         </p>
         <p>Khanh tao PR</p>
         <p>Khanh fix bug</p>
-        <p>Create invalidation to remove cache</p>
+        <p>Create invalidation to remove cache v2</p>
         <a
           className="App-link"
           href="https://reactjs.org"
