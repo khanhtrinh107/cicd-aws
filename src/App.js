@@ -3,24 +3,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> Khanh test cicd pipeline
-        </p>
-        <p>Khanh tao PR</p>
-        <p>Khanh fix bug</p>
-        <p>Create invalidation to remove cache v2</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{textAlign: "center"}} className="App">
+      <p>From Khanh With Love Say Hello World!</p>
     </div>
   );
 }
